@@ -15,7 +15,7 @@ jobs:
         uses: jmietan/koro-filipino-dev
 
       - name: Deploy to FTP Server
-        uses: Capstone Nait server
+        uses: jmietan//FTP-Deploy-Action@v4
         with:
           server: dmitstudent.ca
           username: koro-filipino
