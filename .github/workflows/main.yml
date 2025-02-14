@@ -15,7 +15,7 @@ jobs:
           server: dmitstudent.ca
           username: ${{ secrets.NAITFTP_USERNAME }}
           password: ${{ secrets.NAITFTP_PASSWORD }}
-          protocol: ftp
+          protocol: ftps
           server-dir: /public_html/devsite/
 
 
