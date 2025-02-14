@@ -1,4 +1,6 @@
 .htaccess
+wp-admin/
 wp-config.php
 wp-cron.php
 wp-settings.php
+wp-mail.php
